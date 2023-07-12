@@ -5,6 +5,9 @@
   "repository": "git@github.com:JoelDigbeu/smpp-client.git",
   "author": "Joël Digbeu <87069318+JoelDigbeu@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "smpp": "^0.6.0-rc.4"
   }
